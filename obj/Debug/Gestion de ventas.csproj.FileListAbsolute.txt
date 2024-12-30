@@ -1,0 +1,86 @@
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Gestion de ventas.exe.config
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Gestion de ventas.exe
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Gestion de ventas.pdb
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\EntityFramework.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\EntityFramework.xml
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion de ventas.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Form1.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Properties.Resources.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Registrar.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion de ventas.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion de ventas.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion de ventas.csproj.CopyComplete
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion de ventas.exe
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion de ventas.pdb
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Menu.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Productos.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Inventario.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Facturacion.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Clientes.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Factura.resources
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\EnvDTE.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\stdole.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Report.ReportFactura.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.Reportefactura.resources
+C:\Users\franc\Desktop\Gestion de ventas\obj\Debug\Gestion_de_ventas.ReporteInventario.resources
+C:\Users\franc\Desktop\Gestion de ventas\bin\Debug\EnvDTE.xml
